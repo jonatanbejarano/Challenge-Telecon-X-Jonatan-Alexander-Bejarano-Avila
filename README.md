@@ -1,4 +1,4 @@
-# Challenge-Telecon-X-Jonatan-Alexander-Bejarano-Avila
+# Challenge Telecon X-Jonatan Alexander Bejarano Avila
 # 📊 Telecom X – Análisis de Evasión de Clientes (Churn)
 ## 📌 Propósito del Proyecto
 El objetivo de este proyecto es analizar la **evasión de clientes (Churn)** en Telecom X mediante técnicas de análisis exploratorio de datos (EDA) utilizando Python.
